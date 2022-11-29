@@ -1,3 +1,3 @@
-a=7
+a=10
 b=2
 multiply=(a*b)
