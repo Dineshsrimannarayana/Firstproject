@@ -1,3 +1,3 @@
 a=10
 b=2
-multiply=(a*b)
+multiply=(a * b)
